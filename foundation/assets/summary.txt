@@ -1,0 +1,13 @@
+ My name is agasthyanath gs ,Industry driven and results-oriented Data Scientist with
+5+ years of industry experience, specifically 2 years in
+utilizing machine learning algorithms and computer vision.
+Possessing extensive knowledge in Python, including
+libraries such as Sklearn, Tensor Flow, Numpy, Pandas,
+Matplotlib, Seaborn, Open CV, and Flask.
+Leveraging computer vision skills to deliver successful
+projects using tools such as PyCharm, Visual Studio, Spyder,
+and Jupyter Notebook.
+Achieving recognition from clients for providing efficient
+solutions and delivering critical projects on time.
+Committed to excellent communication and agile teamwork
+for maximum impact.  
